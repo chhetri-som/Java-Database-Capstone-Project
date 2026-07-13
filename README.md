@@ -1,44 +1,4 @@
-# 🏥 Smart Clinic Management System - Java Full-Stack Capstone
-
-<p float="left">
-    <img src="https://images.credly.com/size/680x680/images/3e3454d5-8832-41dd-b67f-3089617e9bf1/IBM_20Java_20Developer_20Professional_20Certificate.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/5aa7853ad353fa96659a176b7c2d4bea6742bea3/Screenshots/Healthcare%20system.jpg" width="300" />
-</p>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## 🚀 Project Status & CI/CD Pipeline
-
-![✅ Compile Java Backend](https://github.com/Willie-Conway/java-database-capstone/actions/workflows/compile-backend.yml/badge.svg)
-![🧹 Lint Java Backend](https://github.com/Willie-Conway/java-database-capstone/actions/workflows/lint-backend.yml/badge.svg)
-![🐳 Lint Dockerfile](https://github.com/Willie-Conway/java-database-capstone/actions/workflows/lint-docker.yml/badge.svg)
-![🌐 Lint Frontend](https://github.com/Willie-Conway/java-database-capstone/actions/workflows/lint-frontend.yml/badge.svg)
-<br>
-![📊 Code Coverage](https://img.shields.io/badge/Code_Coverage-85%25-brightgreen?style=for-the-badge)
-![🚀 Deployment](https://img.shields.io/badge/Deployment-Success-10B981?style=for-the-badge)
-
-## 📖 Project Overview
-<p float="left">
-    <img src="https://github.com/Willie-Conway/java-database-capstone/blob/main/Screenshots/architecture-diagram.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Adding%20Doctor.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Daily%20Appointment%20Report%20by%20Doctor.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Searching%20Doctor.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/012e563df79072c75d21053a80d5cc7d8dd3ed62/Screenshots/Appointments%20List.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Doctor%20Portal.png" width="200" />
-</p>
-
 **Smart Clinic Management System** is a comprehensive full-stack healthcare application designed to modernize clinic operations. Built as the **Capstone Project for Java Development**, this system integrates multiple technologies to provide a seamless experience for administrators, doctors, and patients.
-
-## 🏥 Live Application Demo
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-F97316?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Willie-Conway/java-database-capstone/deployments) 
-[![API Documentation](https://img.shields.io/badge/📚_API_Docs-8B5CF6?style=for-the-badge&logo=swagger&logoColor=white)](http://localhost:8080/swagger-ui.html)
-![Production Ready](https://img.shields.io/badge/Production_Ready-10B981?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🏗️ System Architecture
 
